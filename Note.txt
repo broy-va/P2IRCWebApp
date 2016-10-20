@@ -1,0 +1,1 @@
+In order to run stimulation function correctly, you need upload these images first, by running the script: img_upload.py.
